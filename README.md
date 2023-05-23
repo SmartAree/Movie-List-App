@@ -1,6 +1,6 @@
 # watch_hour
 
-A new Flutter project.
+A movie list generating app in flutter, Rest API and Riverpod
 
 ## Getting Started
 
